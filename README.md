@@ -1,4 +1,4 @@
-#Thesis code
+# Thesis code
 
 ## Author
 Thomas de Lange
